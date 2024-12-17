@@ -1,1 +1,27 @@
+# name=input('enter name:')
+# exp=int(input(f'enter{name}experince'))
+# if exp>=1:
+#     if exp>=1 and exp<=5:
+#         print('25k')
+#     elif exp>=6 and exp<=10:
+#         print('50k')
+#     else:
+#         print('75k')
+# else:
+#     print('not allowed')
 
+# while True:
+#     print('1.payment failed')
+#     print('2.profile and privacy')
+#     print('3.money tansfer')
+#     print('4exit')
+#     user_inp=int(input('enter ur choice'))
+#     if user_inp==1:
+#         print('welcome to payment failed')
+#     elif user_inp==2:
+#         print('welcome to profile and privacy')
+#     elif user_inp==3:
+#         print('welcome to money transfer')
+#     elif user_inp==4:
+#         print('exit')
+#         break
